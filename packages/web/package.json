@@ -28,7 +28,7 @@
     "marked-shiki": "1.2.0",
     "rehype-autolink-headings": "7.1.0",
     "remeda": "2.26.0",
-    "sharp": "0.32.5",
+    "sharp": "0.34.5",
     "shiki": "3.4.2",
     "solid-js": "1.9.7",
     "toolbeam-docs-theme": "0.4.3"
